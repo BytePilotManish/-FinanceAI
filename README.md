@@ -70,12 +70,5 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## 🙏 Acknowledgements
-
--   [Bolt Hackathon](https://www.boltiot.com/)
--   [Vercel](https://vercel.com/) for the deployment platform.
--   All the amazing open-source libraries that made this project possible.
-
----
 
 Built with ❤️ by B P MANISH 
